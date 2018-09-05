@@ -1,2 +1,3 @@
-
-.table-hover tbody tr:hover td, .table-hover tbody tr:hover th{background-color:#280680; color: white}
+.jumbo{background-color: #673ab7;color: white;  text-align: center}
+.jumbo h1{color:white; text-align: center}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th{background-color:#320b86; color: white}
